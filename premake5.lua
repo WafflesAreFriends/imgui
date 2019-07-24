@@ -1,4 +1,4 @@
-project "Phoenix"
+project "imgui"
   kind "StaticLib"
   language "C++"
   
