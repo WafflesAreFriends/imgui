@@ -18,7 +18,7 @@ project "imgui"
     "imstb_textedit.h",
     "imstb_truetype.h",
    }
-
+   
     filter "system:windows"
     systemversion "latest"
     cppdialect "C++17"
